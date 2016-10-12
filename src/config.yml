@@ -1,0 +1,6 @@
+no-permission-message: '&c&l[&4&l!&c&l] &9Command -> &7You do not have permission to do this command.'
+console-only-message: '&c&l[&4&l!&c&l] &9Command -> &7This command may only be executed from the console.'
+player-not-found-message: '&c&l[&4&l!&c&l] &9Command -> &7Player not found.'
+rank-not-found-message: '&c&l[&4&l!&c&l] &9Command -> &7Rank not found, use &f/rank list&7 to get a list of all registered ranks.'
+add-player-to-rank-message: '&9Player &e%player%&9 has been added to the rank &e%rank%&9.'
+remove-player-from-rank-message: '&9Player &e%player%&9 has been removed from the rank &e%rank%&9.'

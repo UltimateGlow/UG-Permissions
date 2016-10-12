@@ -1,0 +1,10 @@
+name: UltimateGlowPermissions
+description: Manages ranks on UltimateGlow.
+author: Mafrans
+main: me.mafrans.ultimateglow.permissions.Main
+version: 1.0
+
+commands:
+    rank:
+        description: Manages ranks.
+        
