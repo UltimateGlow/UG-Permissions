@@ -1,8 +1,8 @@
 #Ultimate Glow General License #
 _Version 1.0, 12th October 2016_
 
-Copyright (c) Malte Mårtensgård Klüft 2016
-Copyright (c) Liam Townsley 2016
+Copyright (c) Malte Mårtensgård Klüft 2016  
+Copyright (c) Liam Townsley 2016  
 
 All rights reserved.
 
